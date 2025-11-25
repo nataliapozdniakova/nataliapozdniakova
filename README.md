@@ -1,9 +1,8 @@
-## Machine Learning Engineer | Data Scientist | GCP Professional ML Engineer
+# Machine Learning Engineer | Data Scientist | GCP Professional ML Engineer
 
-# Tech Stack
+## Tech Stack
 Python
 R
 SQL
-
-# Certifications
+## Certifications
 Google Cloud Professional Machine Learning Engineer (2025)
